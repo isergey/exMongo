@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="test"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="lib/mongo-2.9.1.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="/home/sergey/EclipseProjects/exMongo/lib/mongo-2.9.1.jar"/>
+	<classpathentry kind="lib" path="/home/sergey/EclipseProjects/exMongo/lib/apache-solr-solrj-4.0.0-BETA.jar"/>
+	<classpathentry kind="lib" path="/home/sergey/EclipseProjects/exMongo/lib/commons-codec-1.6.jar"/>
+	<classpathentry kind="lib" path="/home/sergey/EclipseProjects/exMongo/lib/commons-io-2.1.jar"/>
+	<classpathentry kind="lib" path="/home/sergey/EclipseProjects/exMongo/lib/httpclient-4.1.3.jar"/>
+	<classpathentry kind="lib" path="/home/sergey/EclipseProjects/exMongo/lib/httpcore-4.1.4.jar"/>
+	<classpathentry kind="lib" path="/home/sergey/EclipseProjects/exMongo/lib/wstx-asl-3.2.7.jar"/>
+	<classpathentry kind="lib" path="/home/sergey/EclipseProjects/exMongo/lib/jcl-over-slf4j-1.6.4.jar"/>
+	<classpathentry kind="lib" path="/home/sergey/EclipseProjects/exMongo/lib/httpmime-4.1.3.jar"/>
+	<classpathentry kind="lib" path="/home/sergey/EclipseProjects/exMongo/lib/slf4j-api-1.7.1.jar"/>
+	<classpathentry kind="lib" path="/home/sergey/EclipseProjects/exMongo/lib/slf4j-simple-1.7.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

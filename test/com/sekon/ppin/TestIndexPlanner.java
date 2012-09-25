@@ -43,7 +43,7 @@ public class TestIndexPlanner {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
-		assertEquals(candidate.getId(), "2");
+		assertEquals(candidate.getDocsCount(), 22);
 	}
 	
 	@Test(expected=NoCandidatesException.class)
