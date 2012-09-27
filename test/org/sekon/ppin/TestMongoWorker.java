@@ -1,4 +1,4 @@
-package com.sekon.ppin;
+package org.sekon.ppin;
 
 import static org.junit.Assert.*;
 
@@ -11,6 +11,8 @@ import org.junit.AfterClass;
 import org.junit.Before;
 import org.junit.BeforeClass;
 import org.junit.Test;
+import org.sekon.ppin.MongoWorker;
+import org.sekon.ppin.Shard;
 
 public class TestMongoWorker {
 	private MongoWorker mongoWorker = null;

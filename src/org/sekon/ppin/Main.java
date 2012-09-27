@@ -1,4 +1,4 @@
-package com.sekon.ppin;
+package org.sekon.ppin;
 
 import java.net.MalformedURLException;
 import org.apache.solr.client.solrj.SolrServerException;
@@ -12,7 +12,7 @@ import org.apache.solr.common.params.ModifiableSolrParams;
 
 public class Main {
 	public static void main(String[] args) {
-		String url = "http://new.kitap.tatar.ru/solr/";
+		String url = "http://kitap.tatar.ru/solr/";
 		HttpSolrServer solr = new HttpSolrServer( url );
 //		solr.setDefaultMaxConnectionsPerHost(32);
 //		solr.setMaxTotalConnections(32);

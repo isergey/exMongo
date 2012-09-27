@@ -1,4 +1,4 @@
-package com.sekon.ppin;
+package org.sekon.ppin;
 
 import static org.junit.Assert.*;
 
@@ -7,8 +7,10 @@ import org.junit.AfterClass;
 import org.junit.Before;
 import org.junit.BeforeClass;
 import org.junit.Test;
+import org.sekon.ppin.IndexPlanner;
+import org.sekon.ppin.Shard;
+import org.sekon.ppin.exceptions.NoCandidatesException;
 
-import com.sekon.ppin.exceptions.NoCandidatesException;
 
 public class TestIndexPlanner {
 	private IndexPlanner indexPlanner = null;

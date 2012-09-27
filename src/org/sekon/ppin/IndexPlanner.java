@@ -1,8 +1,9 @@
-package com.sekon.ppin;
+package org.sekon.ppin;
 
 import java.util.ArrayList;
 
-import com.sekon.ppin.exceptions.NoCandidatesException;
+import org.sekon.ppin.exceptions.NoCandidatesException;
+
 /**
  * Планировщик индексации документов. 
  *

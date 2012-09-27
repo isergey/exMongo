@@ -1,4 +1,4 @@
-package com.sekon.ppin;
+package org.sekon.ppin;
 import java.net.UnknownHostException;
 import java.util.ArrayList;
 

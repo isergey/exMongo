@@ -1,4 +1,4 @@
-package com.sekon.ppin.exceptions;
+package org.sekon.ppin.exceptions;
 
 
 public class NoCandidatesException extends Exception {

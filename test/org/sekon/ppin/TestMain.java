@@ -1,4 +1,4 @@
-package com.sekon.ppin;
+package org.sekon.ppin;
 
 import static org.junit.Assert.*;
 
